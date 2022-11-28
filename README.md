@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siripond-m
 - 👀 I’m interested in Web development, Machine Learning and Artificial Intelligence
-- 🌱 I’m currently ...
+- 🌱 I’m currently a PhD student 
 - 💞️ I’m looking to collaborate on web development, ML and AI project
 - 📫 How to reach me ... email me at siripond.goog@gmail.com
 
